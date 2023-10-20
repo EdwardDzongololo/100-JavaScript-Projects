@@ -46,3 +46,11 @@ body{
         padding: 0.7rem;
         margin-top: 0.5rem;
       }
+
+      .error{
+        color: red;
+        display: none;
+      }
+      #enterAgainBtn{
+        display: none;
+      }
